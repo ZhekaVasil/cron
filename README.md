@@ -3,6 +3,8 @@ cron
 
 
 wget -O - -q -t 1 http://zhekavasil.by/ang/test.php > /dev/null 2>&1
+
+
 */20 * * * *
 
 Нужно в cron заданиях добавить команду 
